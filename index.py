@@ -1,3 +1,3 @@
 from abcd import *
 
-print 'YOHO'
+print 'asdasd'
